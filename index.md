@@ -23,7 +23,7 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [PaaS & SaaS - Elastic Beanstalk](10.md)|
 ||| [Miniprojekt](11.md) |
 ||| [Evaluering miniprojekt + AWS recap](12.md)|
-||| <small><i>Buffer</i></small> <!--[Threads](7.md)-->|
+||| <!-- <small><i>Buffer</i></small> --> [Threads](7.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
