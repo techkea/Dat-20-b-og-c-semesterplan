@@ -4,7 +4,8 @@
 <div style="text-align:right"><small>
 Undervisning: Dat20C onsdage 12:30 - 15:45 <br>    
 Undervisning: Dat20B fredage 12:30 - 15:45 <br>    
-Underviser: Claus Bove, clbo@kea.dk
+Underviser: Claus Bove, clbo@kea.dk <br>
+Benjamin Hughes behu@kea.dk
 <br><br>
 </small>  
 </div>
