@@ -14,8 +14,8 @@ Underviser: Claus Bove, clbo@kea.dk
 ||| [Introduktion til Teknologifaget og Computer Arkitektur](1.md)|
 ||| [Operativsystemer og Unix File System](2.md)|
 ||| [Obligatorisk opgave (Operativsstemer - Webserver)](3.md)|
-||| [Peer review af Obligatorisk opgave](4.md) <small><i>(Ingen undervisning)</i></small> |
-||| [Client / Server arkitektur, Http requests og responces, GET & POST verbs](5.md)|
+||| [Peer review af Obligatorisk opgave](4.md) <small><i>(Ingen normal undervisning)</i></small> |
+||| [Client / Server arkitektur](5.md)|
 ||| [Database Management Systems, DBMS](6.md)|
 ||| [Cloud Computing Basics & Amazon Web Services](8.md)|
 ||| [Amazon Web Services - Deployment](9.md)|
