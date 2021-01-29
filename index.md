@@ -56,7 +56,7 @@ var dates = [
 	{dat20c:'21/4', dat20b:	'23/4'},
 	{dat20c:'28/4', dat20b:	'St.bededag'},
 	{dat20c:'5/5', dat20b:	'7/5'},
-	{dat20c:'12/5', dat20b:	'14/5' },
+	{dat20c:'12/5', dat20b:	'Kr.Him' },
 	{dat20c:'19/5', dat20b:	'21/5'},
 	{dat20c:'26/5', dat20b:	'28/5'	 },
 
