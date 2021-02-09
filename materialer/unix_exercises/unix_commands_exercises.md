@@ -43,4 +43,6 @@ Note: All the following actions should be done through the terminal. It is not a
 1. Merge/Paste ex1.acc and ex1.dat together in ex1.tot, thus destroying the old file. Verify that corresponding gene IDs and numerical data are put on the same line. as the data.
 1. Extract (cut) SwissProt ID and 3rd numerical data (column 1 and 5) from ex1.tot. Put results into a file ex1.res.
 1. Find the 3 SwisProt ID's in ex1.res which have the largest number(s) in column 2, i.e. the top 3 entries.
+
+
 _(c) 2016 by Peter Wad Sackett, pws@cbs.dtu.dk (ed. clbo@kea.dk 2019)_
