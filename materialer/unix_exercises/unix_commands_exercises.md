@@ -4,7 +4,7 @@
 
 
 # Unix Commands Exercises
-Before doing these exercises be sure to read the tutorial [CommandLineCrashCourse.pdf](../materialer/CommandLineCrashCourse.pdf)
+Before doing these exercises be sure to read the tutorial [CommandLineCrashCourse.pdf](../../materialer/CommandLineCrashCourse.pdf)
 
 ## Necessary files to complete this exercise.
 
