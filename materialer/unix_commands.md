@@ -48,6 +48,11 @@
     cd /path/to/folder/     # Change dir to path
 ````
 
+**List folders content**
+````
+    ls                      # list of files and folders
+````
+
 **Print Working Directory**
 ````
     pwd                     # what folder am i in?
@@ -62,10 +67,6 @@
     echo $null >> <filename>
 ````
 
-**List folders content**
-````
-    ls                      # list of files and folders
-````
 
 **Rename file**
 ````
