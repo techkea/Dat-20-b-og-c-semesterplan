@@ -15,16 +15,16 @@ Benjamin Hughes behu@kea.dk
 ||| [Introduktion til Teknologifaget og Computer Arkitektur](1.md)|
 ||| [Operativsystemer og Unix File System](2.md)|
 ||| [Obligatorisk opgave (Operativsstemer - Webserver)](3.md)|
-||| [Peer review af Obligatorisk opgave](4.md) <small><i>(Ingen normal undervisning)</i></small> |
+||| [Peer review af Obligatorisk opgave](4.md)|
 ||| [Client / Server arkitektur](5.md)|
 ||| [Database Management Systems, DBMS](6.md)|
+||| [<small><i>Ingen Undervisning</i></small>]()|
 ||| [Cloud Computing Basics & Amazon Web Services](8.md)|
-||| [Amazon Web Services - Deployment](9.md)|
 ||| <small><i>Påskeferie</i></small>|
-||| [PaaS & SaaS - Elastic Beanstalk](10.md)|
+||| [Amazon Web Services - WAR & MySQL Deployment](9.md)|
 ||| [Miniprojekt](11.md) |
-||| [Evaluering miniprojekt + AWS recap (kun dat20B)](12.md)|
-||| [Evaluering miniprojekt + AWS recap (kun dat20C)](12.md)|
+||| [PaaS - Elastic Beanstalk (kun dat20B)](10.md)|
+||| [PaaS - Elastic Beanstalk (kun dat20C)](10.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
