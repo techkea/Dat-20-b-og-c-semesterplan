@@ -13,18 +13,19 @@ På windows har i ikke brugt en package manager, så for jer er princippet nyt.
 ## Yum
 På den type af linux machine i kommer til at arbejde med (Red Hat) hedder package manageren YUM. Med yum kan i installere, updatere, og fjerne packages.
 
-For at installerer feks. ´tree´ (som i tidligere installerede på jeres lokale maskine) vil i skulle skrive følgende i jeres terminal. 
+**eksempeler**    
 
-```
- 	$ sudo yum install tree -y
-```
-
-Og hvis du vil installerer Java SDK vil du skulle udføre komandoen:
-
+Hvis du vil installerer Java SDK vil du skulle udføre komandoen:
 
 ```
  	$ sudo yum install java-1.8.0-openjdk-devel -y
 ```
+Og hvis du vil installerer GIT vil du skulle udføre komandoen:
+
+```
+ 	$ sudo yum install git -y
+```
+
 
 ## sudo
 For at kunne installere packages på en linux maskine skal du være ´root´ user, eller ´superuser´. Som udgangspunkt er dit brugernavn på dit AMI ´ec2-user´. Hvis du prefixer dine kommandoer med ´sudo´ vil du kører kommando som root, og du vil blive spurgt om dit root password (med mindre du er logget ind som root). 
