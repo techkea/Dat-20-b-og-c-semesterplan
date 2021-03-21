@@ -30,6 +30,6 @@ Og hvis du vil installerer GIT vil du skulle udføre komandoen:
 ## sudo
 For at kunne installere packages på en linux maskine skal du være ´root´ user, eller ´superuser´. Som udgangspunkt er dit brugernavn på dit AMI ´ec2-user´. Hvis du prefixer dine kommandoer med ´sudo´ vil du kører kommando som root, og du vil blive spurgt om dit root password (med mindre du er logget ind som root). 
 
-SUDO er en forkortelse af ´superuser do´.
+SUDO er en forkortelse af ´superuser do´.    
 
-
+Du kan ved at skrive ```sudo su``` skifte til at root permanent.    
