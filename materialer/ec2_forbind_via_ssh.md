@@ -5,11 +5,9 @@
 # Forbind fra din computer til EC2 via ssh
 ## Nøglepar
 
-Når du opretter en EC2 instans bliver du som det sidste bedt om enten at bruge et eksisterende nøgle par eller oprette et nyt. Da det er første gang du gør det skal du oprette et nyt. Fremover kan du bruge det samme.
+Når du opretter en EC2 instans bliver du som det sidste bedt om enten at bruge et eksisterende nøgle par eller oprette et nyt. Da det er første gang du gør det skal du oprette et nyt og downloade det til din computers download mappe. Fremover kan du bruge det samme nøglepar.
 
-<!-- Her skal være et par screen shots med keypair oprettelse og download.-->
-
-
+![](img/create_download_key.png)
 
 ## Forbind tíl din EC2 instance via terminalen.
 
