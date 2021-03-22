@@ -78,5 +78,10 @@ Open in web browser:
 	http://server_IP_address:8080
 ```
 
+Be aware that the site should use http://, not https://
+
+In order to be able to access the site you should configure a rule under the "security" tab in your EC2 instance.  
+
+
 Configuration files are founc in the conf/ folder.
 
