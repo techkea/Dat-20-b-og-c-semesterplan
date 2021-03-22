@@ -34,14 +34,42 @@ We’re going to install Tomcat to the /opt/tomcat directory. Create the directo
 	$ sudo tar xvf apache-tomcat-9*tar.gz -C /opt/tomcat --strip-components=1
 ```
 
-
-Start, stop or check status of tomcat server:
+Change directory to /opt/tomcat folder
 
 ```
-	$ sudo service tomcat8 start
-	$ sudo service tomcat8 stop
-	$ sudo service tomcat8 status
-	$ sudo service tomcat8 restart
+	$ cd /opt/tomcat
+```
+
+If you do an **ls** command you should see the following:
+
+```
+	$ ls
+	BUILDING.txt  CONTRIBUTING.md  LICENSE  NOTICE  README.md  RELEASE-NOTES  RUNNING.txt  bin  conf  lib  logs  temp  webapps  work
+```
+
+Change permanently to root access
+
+```
+	$ sudo su
+```
+
+Run startup.sh in bin folder to start Tomcat.    
+
+```
+	$ cd bin/
+	$ ./startup.sh
+```
+
+You should now see somthing like this:
+
+```
+	Using CATALINA_BASE:   /opt/tomcat
+	Using CATALINA_HOME:   /opt/tomcat
+	Using CATALINA_TMPDIR: /opt/tomcat/temp
+	Using JRE_HOME:        /
+	Using CLASSPATH:       /opt/tomcat/bin/bootstrap.jar:/opt/tomcat/bin/tomcat-juli.jar
+	Using CATALINA_OPTS:   
+	Tomcat started.
 ```
 
 Open in web browser:
@@ -49,4 +77,6 @@ Open in web browser:
 ```
 	http://server_IP_address:8080
 ```
+
+Configuration files are founc in the conf/ folder.
 

@@ -47,3 +47,15 @@ Når du opretter en EC2 instans bliver du som det sidste bedt om enten at bruge 
 	$ ssh -i "myFirtKey.pem" ec2-user@ec2-18-196-109-146.eu-central-1.compute.amazonaws.com
 ```
 
+Din <public DNS> finder du i dit EC2 Dashboard.    
+
+Du vil formegentligt se en masse "warnings" når du forbinder. Det er som hovedregel fint og du behøver ikke tage stilling til dem.     
+
+Når du er forbundet vil du se en prompt ala denne:
+
+```
+	[ec2-user@ip-172-31-63-172 ~]$
+```
+
+
+
