@@ -18,7 +18,7 @@ Benjamin Hughes behu@kea.dk
 ||| [Peer review af Obligatorisk opgave](4.md)|
 ||| [Client / Server arkitektur](5.md)|
 ||| [Database Management Systems, DBMS](6.md)|
-||| [<small><i>Ingen Undervisning</i></small>]()|
+||| []()|
 ||| [Cloud Computing Basics & Amazon Web Services](8.md)|
 ||| <small><i>Påskeferie</i></small>|
 ||| [Amazon Web Services - WAR & MySQL Deployment](9.md)|
