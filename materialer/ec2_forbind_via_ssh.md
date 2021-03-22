@@ -19,9 +19,9 @@ Når du opretter en EC2 instans bliver du som det sidste bedt om enten at bruge 
 	$ cd ~
 	$ mkdir .ssh
 ```
-## Flyt din *.pem fil fra download mappen til din nye .ssh mappe.    
+### Flyt din *.pem fil fra download mappen til din nye .ssh mappe.    
 
-### eksempel    
+#### eksempel    
 
 ```
 	$ pwd
@@ -29,19 +29,19 @@ Når du opretter en EC2 instans bliver du som det sidste bedt om enten at bruge 
 	$ mv myFirstKey.pem ../.ssh/myFirstKey.pem
 ```
 
-## Sørg for at din .pem fil kun har privat read/write adgang.
+### Sørg for at din .pem fil kun har privat read/write adgang.
 
 ```
 	$ chmod 400 myFirstKey.pem
 ```
 
-## SSH Connect to server:
+### SSH Connect to server:
 
 ```
 	$ ssh -i “path-to-pem-file” ec2-user@<public DNS>
 ```
 
-### Example:
+#### Example:
 
 ```
 	$ ssh -i "myFirtKey.pem" ec2-user@ec2-18-196-109-146.eu-central-1.compute.amazonaws.com
