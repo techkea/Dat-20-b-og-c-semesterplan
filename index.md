@@ -23,7 +23,7 @@ Benjamin Hughes behu@kea.dk
 ||| <small><i>Påskeferie</i></small>|
 ||| [Amazon Web Services - WAR & MySQL Deployment](9.md)|
 ||| [Miniprojekt](11.md) |
-||| [PaaS - Elastic Beanstalk (kun dat20B)](10.md)|
+||| [PaaS - Elastic Beanstalk](10.md)|
 ||| [PaaS - Elastic Beanstalk (kun dat20C)](10.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
@@ -53,7 +53,7 @@ var dates = [
 
 	{dat20c:'7/4', dat20b:'9/4'},
 	{dat20c:'14/4', dat20b:	'16/4'},
-	{dat20c:'21/4 <small><i>(ingen undervisning)</i></small>', dat20b:	'23/4'},
+	{dat20c:'21/4', dat20b:	'23/4'},
 	{dat20c:'28/4', dat20b:	'St.bededag'},
 	{dat20c:'5/5', dat20b:	'7/5'},
 	{dat20c:'12/5', dat20b:	'Kr.Him' },
