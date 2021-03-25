@@ -24,7 +24,7 @@ Benjamin Hughes behu@kea.dk
 ||| [Amazon Web Services - WAR & MySQL Deployment](9.md)|
 ||| [Miniprojekt](11.md) |
 ||| [PaaS - Elastic Beanstalk](10.md)|
-||| [PaaS - Elastic Beanstalk (kun dat20C)](10.md)|
+||| [PaaS - Elastic Beanstalk](10.md)|
 ||| [Eksamensprojekt](14.md)|
 ||| [Eksamensprojekt](15.md)|
 ||| [Eksamensprojekt](16.md)|
