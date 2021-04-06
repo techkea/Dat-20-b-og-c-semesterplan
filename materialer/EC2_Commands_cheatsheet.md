@@ -38,7 +38,7 @@
 ```
 	$ sudo su
 ```
-
+<!--
 ## Install Tomcat:
 
 ## Install jdk:
@@ -85,6 +85,8 @@ Open in web browser:
 ```
 	http://server_IP_address:8080
 ```
+
+-->
 
 ## Move file from local-machine to EC2:
 ```
