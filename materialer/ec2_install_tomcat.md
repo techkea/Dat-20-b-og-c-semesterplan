@@ -23,7 +23,7 @@ Then, change to your home directory:
 ```
 Now, use wget and paste in the link to download the Tomcat 9 archive, like this:
 ```
-	$ wget https://mirrors.dotsrc.org/apache/tomcat/tomcat-9/v9.0.44/bin/apache-tomcat-9.0.44.tar.gz
+	$ wget https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.44/bin/apache-tomcat-9.0.44.tar.gz
 
 ```
 
